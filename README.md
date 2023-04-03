@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenneth Funk
+- 👋 Hi, I’m Kenneth Funk.  I know things are a little barren right now, but after some time away from coding, I am doing some cleanup.  Be patient, I will eventually have something to see.
 - 👀 I’m interested in Python and genealogy
 - 🌱 I’m currently learning Java GUI develpment.
 - 💞️ I’m looking to collaborate on ...
